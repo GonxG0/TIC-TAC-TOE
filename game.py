@@ -1,7 +1,7 @@
 import pygame
 import sys
 import os
-#test
+
 pygame.init()
 
 # Definir dimensiones de la ventana
